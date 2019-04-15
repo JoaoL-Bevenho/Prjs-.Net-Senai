@@ -1,0 +1,39 @@
+﻿@model IEnumerable<AspNetMedicos.Models.MedicosEspecialidades>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Estado
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Medico.crm)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Especialidade.nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Medico.crm)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.MedicosEspecialidadesId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.MedicosEspecialidadesId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.MedicosEspecialidadesId })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d7a51d0702af45d1a3b6d8520c4f76d8" Name="Diagram1">
+        <EntityTypeShape EntityType="AspNetMedicosModel.Cidade" Width="1.5" PointX="5.25" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="AspNetMedicosModel.Especialidade" Width="1.5" PointX="7.5" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AspNetMedicosModel.Estado" Width="1.5" PointX="3" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="AspNetMedicosModel.Medico" Width="1.5" PointX="7.5" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="AspNetMedicosModel.MedicosEspecialidade" Width="1.5" PointX="9.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="AspNetMedicosModel.Pais" Width="1.5" PointX="0.75" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AspNetMedicosModel.sysdiagram" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AspNetMedicosModel.Usuario" Width="1.5" PointX="2.75" PointY="4.75" IsExpanded="true" />
+        <AssociationConnector Association="AspNetMedicosModel.FK_dbo_Cidades_dbo_Estados_EstadosId" ManuallyRouted="false" />
+        <AssociationConnector Association="AspNetMedicosModel.FK_dbo_Medicos_dbo_Cidades_CidadesId" ManuallyRouted="false" />
+        <AssociationConnector Association="AspNetMedicosModel.FK_dbo_MedicosEspecialidades_dbo_Especialidades_EspecialidadesId" ManuallyRouted="false" />
+        <AssociationConnector Association="AspNetMedicosModel.FK_dbo_Estados_dbo_Paises_PaisesId" ManuallyRouted="false" />
+        <AssociationConnector Association="AspNetMedicosModel.FK_dbo_MedicosEspecialidades_dbo_Medicos_MedicosId" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

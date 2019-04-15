@@ -1,0 +1,42 @@
+﻿@model AspNetMedicos.Models.Estados
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Estados</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Pais.nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pais.nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.sigla)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.sigla)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.EstadosId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

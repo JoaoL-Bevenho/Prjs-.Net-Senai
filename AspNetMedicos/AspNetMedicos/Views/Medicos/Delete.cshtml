@@ -1,0 +1,96 @@
+﻿@model AspNetMedicos.Models.Medicos
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Medicos</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Cidade.nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cidade.nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.crm)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.crm)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.endereco)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.endereco)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.bairro)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.bairro)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.atendeporconvenio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.atendeporconvenio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.temclinica)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.temclinica)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.websiteblog)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.websiteblog)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>
