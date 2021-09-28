@@ -1,0 +1,11 @@
+D:\curso TCS jlbevenho\dungeon_world\dungeon_world\dungeon_world\bin\Debug\netcoreapp2.1\dungeon_world.deps.json
+D:\curso TCS jlbevenho\dungeon_world\dungeon_world\dungeon_world\bin\Debug\netcoreapp2.1\dungeon_world.runtimeconfig.json
+D:\curso TCS jlbevenho\dungeon_world\dungeon_world\dungeon_world\bin\Debug\netcoreapp2.1\dungeon_world.runtimeconfig.dev.json
+D:\curso TCS jlbevenho\dungeon_world\dungeon_world\dungeon_world\bin\Debug\netcoreapp2.1\dungeon_world.dll
+D:\curso TCS jlbevenho\dungeon_world\dungeon_world\dungeon_world\bin\Debug\netcoreapp2.1\dungeon_world.pdb
+D:\curso TCS jlbevenho\dungeon_world\dungeon_world\dungeon_world\obj\Debug\netcoreapp2.1\dungeon_world.csprojAssemblyReference.cache
+D:\curso TCS jlbevenho\dungeon_world\dungeon_world\dungeon_world\obj\Debug\netcoreapp2.1\dungeon_world.csproj.CoreCompileInputs.cache
+D:\curso TCS jlbevenho\dungeon_world\dungeon_world\dungeon_world\obj\Debug\netcoreapp2.1\dungeon_world.AssemblyInfoInputs.cache
+D:\curso TCS jlbevenho\dungeon_world\dungeon_world\dungeon_world\obj\Debug\netcoreapp2.1\dungeon_world.AssemblyInfo.cs
+D:\curso TCS jlbevenho\dungeon_world\dungeon_world\dungeon_world\obj\Debug\netcoreapp2.1\dungeon_world.dll
+D:\curso TCS jlbevenho\dungeon_world\dungeon_world\dungeon_world\obj\Debug\netcoreapp2.1\dungeon_world.pdb

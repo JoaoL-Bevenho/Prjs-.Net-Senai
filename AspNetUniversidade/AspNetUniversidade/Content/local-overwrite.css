@@ -1,0 +1,28 @@
+﻿.footer-overwrite {
+    margin-left: 13% !important;
+    margin-right: 13% !important;
+    box-shadow: #000000;
+}
+
+.text-align-overwrite {
+    text-align: justify;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.form-row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+    .form-row > col, .form-row > [class="col"] {
+        padding-left: 5px;
+        padding-right: 5px;
+    }

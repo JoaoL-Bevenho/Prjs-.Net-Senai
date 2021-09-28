@@ -1,0 +1,158 @@
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojAssemblyReference.cache
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\WebApplication3.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\csc.exe
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\csc.exe.config
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\csc.rsp
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\csi.exe
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\csi.exe.config
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\csi.rsp
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.AppContext.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.Console.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.IO.Compression.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.Security.Claims.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.ValueTuple.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\vbc.exe
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\vbc.exe.config
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\vbc.rsp
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\EntityFramework.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\EntityFramework.SqlServer.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\System.Web.Helpers.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\System.Web.Mvc.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\System.Web.Razor.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\System.Web.Webpages.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\System.Web.Webpages.Razor.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\EntityFramework.xml
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\EntityFramework.SqlServer.xml
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\System.Web.Razor.xml
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\System.Web.Webpages.xml
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\System.Web.Webpages.Razor.xml
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\System.Web.Helpers.xml
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\System.Web.Mvc.xml
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CopyComplete
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+C:\Users\Senai\source\repos\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\WebApplication3.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\csc.exe
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\csc.exe.config
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\csc.rsp
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\csi.exe
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\csi.exe.config
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\csi.rsp
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.AppContext.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.Console.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.IO.Compression.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.Security.AccessControl.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.Security.Claims.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.Security.Principal.Windows.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.ValueTuple.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\vbc.exe
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\vbc.exe.config
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\vbc.rsp
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\EntityFramework.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\EntityFramework.SqlServer.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\Microsoft.Web.Infrastructure.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\System.Web.Helpers.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\System.Web.Mvc.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\System.Web.Razor.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\System.Web.Webpages.Deployment.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\System.Web.Webpages.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\System.Web.Webpages.Razor.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\EntityFramework.xml
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\EntityFramework.SqlServer.xml
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\System.Web.Razor.xml
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\System.Web.Webpages.xml
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\System.Web.Webpages.Deployment.xml
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\System.Web.Webpages.Razor.xml
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\System.Web.Helpers.xml
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\System.Web.Mvc.xml
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\pt-br\System.Web.Razor.resources.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\pt-br\System.Web.Webpages.resources.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\pt-br\System.Web.Helpers.resources.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\bin\pt-br\System.Web.Mvc.resources.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojAssemblyReference.cache
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CoreCompileInputs.cache
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CopyComplete
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+D:\curso TCS jlbevenho\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb

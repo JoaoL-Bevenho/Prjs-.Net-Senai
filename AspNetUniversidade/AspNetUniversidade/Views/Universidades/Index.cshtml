@@ -1,0 +1,45 @@
+﻿@model IEnumerable<AspNetUniversidade.Models.Universidade>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.cidade)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.uf)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.cidade)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.uf)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.UniversidadeId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.UniversidadeId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.UniversidadeId })
+        </td>
+    </tr>
+}
+
+</table>

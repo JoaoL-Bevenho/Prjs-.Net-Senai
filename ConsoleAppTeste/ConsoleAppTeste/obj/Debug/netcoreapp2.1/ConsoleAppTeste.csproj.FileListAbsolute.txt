@@ -1,0 +1,11 @@
+D:\curso TCS jlbevenho\ConsoleAppTeste\ConsoleAppTeste\bin\Debug\netcoreapp2.1\ConsoleAppTeste.deps.json
+D:\curso TCS jlbevenho\ConsoleAppTeste\ConsoleAppTeste\bin\Debug\netcoreapp2.1\ConsoleAppTeste.runtimeconfig.json
+D:\curso TCS jlbevenho\ConsoleAppTeste\ConsoleAppTeste\bin\Debug\netcoreapp2.1\ConsoleAppTeste.runtimeconfig.dev.json
+D:\curso TCS jlbevenho\ConsoleAppTeste\ConsoleAppTeste\bin\Debug\netcoreapp2.1\ConsoleAppTeste.dll
+D:\curso TCS jlbevenho\ConsoleAppTeste\ConsoleAppTeste\bin\Debug\netcoreapp2.1\ConsoleAppTeste.pdb
+D:\curso TCS jlbevenho\ConsoleAppTeste\ConsoleAppTeste\obj\Debug\netcoreapp2.1\ConsoleAppTeste.csprojAssemblyReference.cache
+D:\curso TCS jlbevenho\ConsoleAppTeste\ConsoleAppTeste\obj\Debug\netcoreapp2.1\ConsoleAppTeste.csproj.CoreCompileInputs.cache
+D:\curso TCS jlbevenho\ConsoleAppTeste\ConsoleAppTeste\obj\Debug\netcoreapp2.1\ConsoleAppTeste.AssemblyInfoInputs.cache
+D:\curso TCS jlbevenho\ConsoleAppTeste\ConsoleAppTeste\obj\Debug\netcoreapp2.1\ConsoleAppTeste.AssemblyInfo.cs
+D:\curso TCS jlbevenho\ConsoleAppTeste\ConsoleAppTeste\obj\Debug\netcoreapp2.1\ConsoleAppTeste.dll
+D:\curso TCS jlbevenho\ConsoleAppTeste\ConsoleAppTeste\obj\Debug\netcoreapp2.1\ConsoleAppTeste.pdb

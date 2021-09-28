@@ -1,0 +1,11 @@
+D:\curso TCS jlbevenho\PooApp\PooApp\PooApp\bin\Debug\netcoreapp2.1\PooApp.deps.json
+D:\curso TCS jlbevenho\PooApp\PooApp\PooApp\bin\Debug\netcoreapp2.1\PooApp.runtimeconfig.json
+D:\curso TCS jlbevenho\PooApp\PooApp\PooApp\bin\Debug\netcoreapp2.1\PooApp.runtimeconfig.dev.json
+D:\curso TCS jlbevenho\PooApp\PooApp\PooApp\bin\Debug\netcoreapp2.1\PooApp.dll
+D:\curso TCS jlbevenho\PooApp\PooApp\PooApp\bin\Debug\netcoreapp2.1\PooApp.pdb
+D:\curso TCS jlbevenho\PooApp\PooApp\PooApp\obj\Debug\netcoreapp2.1\PooApp.csprojAssemblyReference.cache
+D:\curso TCS jlbevenho\PooApp\PooApp\PooApp\obj\Debug\netcoreapp2.1\PooApp.csproj.CoreCompileInputs.cache
+D:\curso TCS jlbevenho\PooApp\PooApp\PooApp\obj\Debug\netcoreapp2.1\PooApp.AssemblyInfoInputs.cache
+D:\curso TCS jlbevenho\PooApp\PooApp\PooApp\obj\Debug\netcoreapp2.1\PooApp.AssemblyInfo.cs
+D:\curso TCS jlbevenho\PooApp\PooApp\PooApp\obj\Debug\netcoreapp2.1\PooApp.dll
+D:\curso TCS jlbevenho\PooApp\PooApp\PooApp\obj\Debug\netcoreapp2.1\PooApp.pdb

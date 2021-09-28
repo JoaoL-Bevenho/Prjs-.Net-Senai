@@ -1,0 +1,7 @@
+Routines
+Employyes
+Departments
+Titles
+Dept_Emp
+Dept_Manager
+Salaries

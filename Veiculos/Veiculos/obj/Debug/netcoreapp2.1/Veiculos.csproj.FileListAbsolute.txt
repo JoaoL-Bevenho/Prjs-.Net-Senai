@@ -1,0 +1,11 @@
+D:\curso TCS jlbevenho\Veiculos\Veiculos\Veiculos\bin\Debug\netcoreapp2.1\Veiculos.deps.json
+D:\curso TCS jlbevenho\Veiculos\Veiculos\Veiculos\bin\Debug\netcoreapp2.1\Veiculos.runtimeconfig.json
+D:\curso TCS jlbevenho\Veiculos\Veiculos\Veiculos\bin\Debug\netcoreapp2.1\Veiculos.runtimeconfig.dev.json
+D:\curso TCS jlbevenho\Veiculos\Veiculos\Veiculos\bin\Debug\netcoreapp2.1\Veiculos.dll
+D:\curso TCS jlbevenho\Veiculos\Veiculos\Veiculos\bin\Debug\netcoreapp2.1\Veiculos.pdb
+D:\curso TCS jlbevenho\Veiculos\Veiculos\Veiculos\obj\Debug\netcoreapp2.1\Veiculos.csprojAssemblyReference.cache
+D:\curso TCS jlbevenho\Veiculos\Veiculos\Veiculos\obj\Debug\netcoreapp2.1\Veiculos.csproj.CoreCompileInputs.cache
+D:\curso TCS jlbevenho\Veiculos\Veiculos\Veiculos\obj\Debug\netcoreapp2.1\Veiculos.AssemblyInfoInputs.cache
+D:\curso TCS jlbevenho\Veiculos\Veiculos\Veiculos\obj\Debug\netcoreapp2.1\Veiculos.AssemblyInfo.cs
+D:\curso TCS jlbevenho\Veiculos\Veiculos\Veiculos\obj\Debug\netcoreapp2.1\Veiculos.dll
+D:\curso TCS jlbevenho\Veiculos\Veiculos\Veiculos\obj\Debug\netcoreapp2.1\Veiculos.pdb
